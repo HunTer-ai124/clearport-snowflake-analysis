@@ -1,1 +1,1 @@
-# clearport-snowflake-analysis
+SNOWFLAKE_README.md
